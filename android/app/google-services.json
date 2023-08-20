@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642089809054",
+    "firebase_url": "https://dysplassist-3e708-default-rtdb.firebaseio.com",
+    "project_id": "dysplassist-3e708",
+    "storage_bucket": "dysplassist-3e708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642089809054:android:0689614a8afc70a2f0378f",
+        "android_client_info": {
+          "package_name": "com.luketechsolutions.dysplassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642089809054-iaptd9lans2tmp66lqgen58966scup4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbEni9d1reNN2kORqbmw_Y72ULUQcl4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642089809054-iaptd9lans2tmp66lqgen58966scup4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
